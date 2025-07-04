@@ -11,4 +11,3 @@
 
 felipe.machenski@escola.pr.gov.br
 
-https://media1.tenor.com/m/_pw-gfCVzg8AAAAd/sniff.gif
