@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil! 💗
 
-● Meu nome é Larissa Molinari
+● Meu nome é Felipe Machenski
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
